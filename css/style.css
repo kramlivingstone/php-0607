@@ -1,0 +1,58 @@
+/*.navbar-collapse.in {
+	overflow: hidden;
+}*/
+
+
+/*.main {
+	margin-top: 100px;
+}*/
+
+body {
+	padding-top: 50px;
+}
+
+
+.carousel .item img {
+	width: 100%;
+}
+
+.boxes img {
+	height: 100%;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.row {
+	padding-top: 20px;
+}
+
+img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.image-one {
+	width: 100vw;	
+	height: 50vh;
+	background: url(../img/wolverine.jpg);
+	background-attachment: fixed;
+	/*background-position: center;*/
+	background-size: cover;
+
+}
+
+.image-two {
+	width: 100vw;
+	height: 50vh;
+	background: url(../img/deadpool.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.image-three {
+	width: 100vw;
+	height: 50vh;
+	background: url(../img/starlord.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
